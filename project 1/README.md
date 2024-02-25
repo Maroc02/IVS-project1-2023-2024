@@ -8,7 +8,6 @@ Test-driven development – xx/6
 
 Points in total  – xx/18\
 <br/>
-<br/>
 # Projekt 1 -- Testování
 # Úvod
 Cílem tohoto projektu je si prakticky vyzkoušet typické úlohy spojené s testováním software pomocí tzv. unit testů. 
