@@ -261,7 +261,6 @@ Tato implementace musí splňovat dodané testy v souboru ```tdd_tests.cpp``` a 
 * ```1,5 b.``` -- nedochází k problémům při práci s pamětí (memory leaks)
 
 <br/>
-<br/>
 
 @author ~ Marek Čupr (xcuprm01)
 
@@ -271,4 +270,5 @@ Black-box tests – xx/6\
 White-box tests – xx/6\
 Test-driven development – xx/6
 
-Points in total  – xx/18\
+Points in total  – xx/18
+
