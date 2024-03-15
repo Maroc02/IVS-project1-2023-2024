@@ -266,9 +266,27 @@ Tato implementace musí splňovat dodané testy v souboru ```tdd_tests.cpp``` a 
 
 Points:
 
-Black-box tests – xx/6\
-White-box tests – xx/6\
-Test-driven development – xx/6
+Black-box tests – 4/6\
+White-box tests – 4.7/6\
+Test-driven development – 6/6
 
-Points in total  – xx/18
+Points in total  – 14.7/18\
+
+Poznámky k úkolům:
+
+Black Box Testing:
+
+    INSERT: Při spuštění došlo k selhání. (Možná příčina je opomenutí ASSERT nebo je místo něj EXPECT.)
+    FIND: Při spuštění došlo k selhání. (Možná příčina je opomenutí ASSERT nebo je místo něj EXPECT.)
+
+White Box Testing:
+
+    Kontrola realokace při vložení prvku: nedostatečně otestováno
+    Kontrola used size po pop: nedostatečně otestováno
+    Kontrola stavu tabulky po reindexaci: nedostatečně otestováno
+
+Test Driven Development:
+
+    OK
+
 
