@@ -264,7 +264,7 @@ Tato implementace musí splňovat dodané testy v souboru ```tdd_tests.cpp``` a 
 
 @author ~ Marek Čupr (xcuprm01)
 
-Points:
+### Points:
 
 Black-box tests – 4/6\
 White-box tests – 4.7/6\
@@ -274,7 +274,7 @@ Points in total  – 14.7/18\
 
 <br/>
 
-Poznámky k úkolům:
+### Poznámky k úkolům:
 
 Black Box Testing:
 
