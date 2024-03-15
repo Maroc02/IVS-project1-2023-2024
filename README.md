@@ -2,8 +2,8 @@
 
 Points:
 
-Project 1 – xx/18\
-Project 2 – xx/52
+Project 1 – 14.7/18\
+Project 2 – ??/52
 
-Points in total  – xx/70\
+Points in total  – ??/70\
 <br/>
