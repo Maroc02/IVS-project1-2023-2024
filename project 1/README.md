@@ -258,10 +258,9 @@ Tato implementace musí splňovat dodané testy v souboru ```tdd_tests.cpp``` a 
 
 ### Hodnocení
 * ```4,5 b.``` -- splnění testů (alespoň 12 ok jinak 0, testy pro Edge se do tohoto nepočítají)
-* ```1,5 b.``` -- nedochází k problémům při práci s pamětí (memory leaks)\
+* ```1,5 b.``` -- nedochází k problémům při práci s pamětí (memory leaks)
 
 <br/>
-
 ### Poznámky k úkolům:
 
 Black Box Testing:
