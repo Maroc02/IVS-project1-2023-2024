@@ -272,8 +272,6 @@ Test-driven development – 6/6
 
 Points in total  – 14.7/18\
 
-<br/>
-
 ### Poznámky k úkolům:
 
 Black Box Testing:
